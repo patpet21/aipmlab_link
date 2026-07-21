@@ -41,7 +41,7 @@ Then open `http://localhost:8000`. A local server is recommended when checking b
 
 Current destinations:
 
-- Free Resources: `https://aipmlab.propertydex.xyz/resourse`
+- Free Resources: `https://aipmlab.propertydex.xyz/resources`
 - YouTube: `https://openinapp.link/aipmlab`
 - Discovery Call: `https://calendly.com/trigosattokenization/30min`
 - PropertyDEX Framework: `https://framework.propertydex.xyz/?open=signup`
