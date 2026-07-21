@@ -4,7 +4,7 @@
 const LINKS = Object.freeze({
   resources: 'https://aipmlab.propertydex.xyz/resources',
   youtube: 'https://openinapp.link/aipmlab',
-  discovery: 'https://calendly.com/trigosattokenization/30min',
+  discovery: 'https://calendly.com/trigosatconsulting/30min',
   framework: 'https://framework.propertydex.xyz/?open=signup',
   propertydex: 'https://propertydex.xyz',
   // Temporary destination for the Connect card. Replace it here when a dedicated community channel is available.
