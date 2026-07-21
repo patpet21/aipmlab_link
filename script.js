@@ -2,7 +2,7 @@
 
 /* Update the main destination URLs here. Markup contains the same URLs as a no-JavaScript fallback. */
 const LINKS = Object.freeze({
-  resources: 'https://aipmlab.propertydex.xyz/resourse',
+  resources: 'https://aipmlab.propertydex.xyz/resources',
   youtube: 'https://openinapp.link/aipmlab',
   discovery: 'https://calendly.com/trigosattokenization/30min',
   framework: 'https://framework.propertydex.xyz/?open=signup',
